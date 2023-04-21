@@ -1,9 +1,10 @@
-#PARKING SLOT DETECTION
+# PARKING SLOT DETECTION
 
 
-##group project
+## Group Project
 
-Module Code:MOD006566
+            Module Code:MOD006566
+            
 John Paul Chacko                Ali Shah
 SSID:2132848                    SSID:2173447
 
